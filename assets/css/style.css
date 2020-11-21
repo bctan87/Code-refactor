@@ -95,17 +95,17 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit {
+aside div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit h3 {
+aside div h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img {
+aside div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
