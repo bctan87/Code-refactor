@@ -28,6 +28,7 @@ C. Articles - connected to the top navigation.
 
 ## Credits
 https://www.w3schools.com/
+
 https://developer.mozilla.org/en-US/
 
 
