@@ -21,7 +21,9 @@ Please refer to the screecap:
 ![horiseon_screencap](assets/images/horiseon_screencap.png)
 ```
 A. Branding - clicking on this would bring the user back to the homepage/top of the directory.
+
 B. Navigation - clicking on one of these would take the user to their corresponding articles located in section C.
+
 C. Articles - connected to the top navigation.
 
 ## Credits
