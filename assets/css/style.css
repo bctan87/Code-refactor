@@ -56,12 +56,13 @@ header nav ul li {
 
 /* Start Hero Styles */
 .hero {
-    height: 100vh;
+    height: 1200px;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
+    background-repeat: no-repeat;
 }
 /* End Hero Styles */
 
