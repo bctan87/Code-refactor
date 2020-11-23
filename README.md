@@ -18,7 +18,7 @@ https://github.com/bctan87/Code-refactor
 ## Usage 
 Please refer to the screecap: 
 ```md
-![horiseon_screencap](assets/images/horiseon_screencap.png)
+![Screenshot](./assets/images/horiseon_screencap.png)
 ```
 A. Branding - clicking on this would bring the user back to the homepage/top of the directory.
 
